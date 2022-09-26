@@ -31,22 +31,8 @@ I love Java, I like Angular and I'm in a love-hate relationship with javascript.
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-Here are some ideas to get you started:
-  <a href="https://www.linkedin.com/in/anamme/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 How to reach me:<a href="https://www.linkedin.com/in/anamme/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-
-	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whiteç
-	
-![image]({https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whiteç})
-<img src="{https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whiteç}" />
-<img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
-https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-	https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 
 #ejemplo
 ## GitHub Stats 📈
