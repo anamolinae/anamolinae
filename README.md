@@ -55,8 +55,6 @@ How to reach me:<a href="https://www.linkedin.com/in/anamme/" target="_blank"><i
     </tbody>
   <table>
 <div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamolinae)]
-
 
 ### Built With
 <!--[![Angular][Angular.io]][Angular-url]
