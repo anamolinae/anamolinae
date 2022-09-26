@@ -43,7 +43,7 @@ How to reach me:<a href="https://www.linkedin.com/in/anamme/" target="_blank"><i
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/anamolinae">  
-		[![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=amolinae)
+		![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolinae)
            Language Stats" vertical-align="middle"/>
           </a>
         </div>
