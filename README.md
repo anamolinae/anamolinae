@@ -81,3 +81,22 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={username}
   <table>
 <div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamolinae)]
+
+
+### Built With
+<!-- * [![Angular][Angular.io]][Angular-url]
+* [![Nest][nestjs.com]][NestJs-url]
+* [![Typescript][typescriptlang.org]][TypeScript-url]
+* [![Dockers][docker.com]][Dockers-url]
+* [![Express][expressjs.com]][Express-url]
+* [![MongoDB][nestjs.com/techniques/mongodb]][MongoDB-url] -->
+##d
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io/
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
