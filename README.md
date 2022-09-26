@@ -34,42 +34,4 @@ I love Java, I like Angular and I'm in a love-hate relationship with javascript.
   
 How to reach me:<a href="https://www.linkedin.com/in/anamme/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-#ejemplo
-## GitHub Stats 📈
-<div align="center">
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/anamolinae">  
-		![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolinae)
-           Language Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-        <td width="50%" style="border: none !important;">
-        
-        </td>
-      </tr>
-    </tbody>
-  <table>
-<div>
-
-### Built With
-<!--[![Angular][Angular.io]][Angular-url]
-* [![Nest][nestjs.com]][NestJs-url]
-* [![Typescript][typescriptlang.org]][TypeScript-url]
-* [![Dockers][docker.com]][Dockers-url]
-* [![Express][expressjs.com]][Express-url]
-* [![MongoDB][nestjs.com/techniques/mongodb]][MongoDB-url] 
-##d
-	mhgv --->
-
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
