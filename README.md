@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, my name is Ana and I'm a Junior Software Developer based on Bilbao. 👋
+
+I love Java, I like Angular and I'm in a love-hate relationship with javascript.
+
 <!--   <a href="https://www.linkedin.com/in/anamme/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 	 -->
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
